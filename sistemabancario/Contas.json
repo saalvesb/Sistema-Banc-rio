@@ -1,0 +1,27 @@
+[ {
+  "numero" : "456",
+  "cliente" : {
+    "id" : 5,
+    "cpf" : "77874597001",
+    "nome" : "Laura",
+    "endereco" : "Rua D",
+    "telefones" : [ "4444444" ],
+    "email" : "laura@laura",
+    "ativo" : true
+  },
+  "saldo" : 0.0,
+  "ativo" : true
+}, {
+  "numero" : "123",
+  "cliente" : {
+    "id" : 1,
+    "cpf" : "52069193063",
+    "nome" : "Joao",
+    "endereco" : "Rua A",
+    "telefones" : [ "1111111" ],
+    "email" : "joao@joao",
+    "ativo" : true
+  },
+  "saldo" : 0.0,
+  "ativo" : true
+} ]

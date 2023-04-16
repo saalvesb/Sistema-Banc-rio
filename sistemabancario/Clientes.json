@@ -1,0 +1,33 @@
+[ {
+  "id" : 1,
+  "cpf" : "52069193063",
+  "nome" : "Joao",
+  "endereco" : "Rua A",
+  "telefones" : [ "1111111" ],
+  "email" : "joao@joao",
+  "ativo" : true
+}, {
+  "id" : 5,
+  "cpf" : "77874597001",
+  "nome" : "Laura",
+  "endereco" : "Rua D",
+  "telefones" : [ "4444444" ],
+  "email" : "laura@laura",
+  "ativo" : true
+}, {
+  "id" : 2,
+  "cpf" : "68434684039",
+  "nome" : "Pedro",
+  "endereco" : "Rua C",
+  "telefones" : [ "3333333" ],
+  "email" : "pedro@pesro",
+  "ativo" : true
+}, {
+  "id" : 3,
+  "cpf" : "93913410040",
+  "nome" : "Maria",
+  "endereco" : "Rua B",
+  "telefones" : [ "22222222" ],
+  "email" : "maria@maria",
+  "ativo" : false
+} ]
